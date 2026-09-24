@@ -1,0 +1,23 @@
+{
+  "manifest_file": "manifest.json",
+  "review_folder": "C:/PhotosSync/Review_Before_Delete",
+  "openai_model": "gpt-4o-mini",
+  "burst_window_seconds": 8,
+  "accounts": [
+    {
+      "name": "account1",
+      "token_file": "token_account1.json",
+      "watch_folder": "C:/PhotosSync/Camera"
+    },
+    {
+      "name": "account2",
+      "token_file": "token_account2.json",
+      "watch_folder": "C:/PhotosSync/WhatsApp"
+    },
+    {
+      "name": "account3",
+      "token_file": "token_account3.json",
+      "watch_folder": "C:/PhotosSync/Screenshots"
+    }
+  ]
+}
